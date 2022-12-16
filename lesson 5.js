@@ -7,28 +7,28 @@
 // //  * - виводить вміст об'єкта `user` у форматі `ключ:значення` використовуючи `Object.keys()` та `for...of`
 // //  */
 
-// // // const abc = 'greeting';
+// // const abc = 'greeting';
 
-// // // const user = {
-// // //   name: 'Mango',
-// // //   age: 20,
-// // //   hobby: 'html',
-// // //   premium: true,
-// // // };
+// // const user = {
+// //   name: 'Mango',
+// //   age: 20,
+// //   hobby: 'html',
+// //   premium: true,
+// // };
 
-// // // user.mood = 'happy';
-// // // user.hobby = 'skydiving';
-// // // user.premium = false;
+// // user.mood = 'happy';
+// // user.hobby = 'skydiving';
+// // user.premium = false;
 
-// // // // 1) Отримати масив ключів обʼєкта
-// // // const userKeys = Object.keys(user);
+// // // 1) Отримати масив ключів обʼєкта
+// // const userKeys = Object.keys(user);
 
-// // // // 2) пройтись масивом по ключах і вивести в консоль рядки
-// // // // `ключ:значення`
+// // // 2) пройтись масивом по ключах і вивести в консоль рядки
+// // // `ключ:значення`
 
-// // // for (const key of userKeys) {
-// // //   console.log(`${key}: ${user[key]}`);
-// // // }
+// // for (const key of userKeys) {
+// //   console.log(`${key}: ${user[key]}`);
+// // }
 
 // // /**
 // //  * Task 2.
